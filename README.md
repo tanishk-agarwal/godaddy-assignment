@@ -141,7 +141,7 @@ src/
 │   └── styles/
 │       ├── RepoList.css     
 │       └── RepoDetails.css  
-└── __tests__/
+└── __tests/
     ├── RepoList.test.jsx     
     └── RepoDetails.test.jsx  
 ```
